@@ -1,0 +1,42 @@
+body
+{
+   background-color: #f3f3f3;
+}
+
+
+.style1
+{
+    color: black;
+    text-align: center;
+    font-family: monospace;
+}
+.style2
+{
+    color: lightsalmon;
+    text-align: center;
+    font-family: cursive;
+}
+.style3
+{
+    color: black;
+    text-align: center;
+    font-family: serif;
+}
+.style4
+{
+    background-color: black;
+    
+}
+.style5
+{
+    text-align: center;
+}
+.b1
+{
+    text-align: center;
+}
+.footer_1
+{
+    text-decoration: overline;
+    text-align: center;
+}

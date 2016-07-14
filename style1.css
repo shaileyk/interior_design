@@ -1,0 +1,39 @@
+#contents
+{
+	font-style:italic;
+	text-decoration:bold;
+	/*background:gray;*/
+	text-align:center;
+	color:yellow;
+}
+body
+{
+	background-position:center;
+
+}
+#name
+{
+	/*background-color:black;*/
+	text-align:center;
+	/*color:blue;*/
+	
+}
+#date
+{
+	text-align:right;
+}
+#smile
+{
+	text-align:center;
+	
+}
+body{
+	/*background-color:gray;*/
+	background-image:url("../heavyribpeachypink.jpg");
+	background-repeat:no-repeat;
+	background-size:100em;
+}
+#i1
+{
+	text-decoration:underline;
+}
